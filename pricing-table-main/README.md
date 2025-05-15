@@ -1,9 +1,5 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/geeky-prashant/pricing-table)
-  ![GitHub stars](https://img.shields.io/github/stars/geeky-prashant/pricing-table?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/geeky-prashant/pricing-table?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/geekyprashant?style=social)](https://twitter.com/intent/follow?screen_name=geekyprashant)
  
   <br />
 
